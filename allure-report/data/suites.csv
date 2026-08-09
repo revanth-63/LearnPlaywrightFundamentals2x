@@ -1,3 +1,6 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","4380","get started link","chromium","2026-07-20","passed","2026-07-20","","example.spec.ts","",""
-"","3009","has title","chromium","2026-07-20","passed","2026-07-20","","example.spec.ts","",""
+"","12","go directly to dashboard — no login @P0 @smoke","chromium","2026-08-09","failed","2026-08-09","VWO - session reuse","05_Allure_Reporting\248_TestVWODashboard.spec.ts","",""
+"","9","go directly to dashboard - no login","chromium","2026-08-09","failed","2026-08-09","","04_Session_Storage\249_TestVWODashboard_NoCustomReport.spec.ts","",""
+"","13","go directly to settings - no login @P1 @regression","chromium","2026-08-09","failed","2026-08-09","VWO - session reuse","05_Allure_Reporting\248_TestVWODashboard.spec.ts","",""
+"","2052","reuse saved session storage and attach steps @P0 @smoke","chromium","2026-08-09","passed","2026-08-09","Session Storage + Allure + Custom Reporter","04_Session_Storage\250_SessionStorage_Allure.spec.ts","",""
+"","11","go directly to settings - no login","chromium","2026-08-09","failed","2026-08-09","","04_Session_Storage\249_TestVWODashboard_NoCustomReport.spec.ts","",""
