@@ -1,5 +1,5 @@
 // Task 19th July 2026 | Project Static Table
-// Task 2 Dynamic Table Mia Hoffmann - Email 
+// Task 2 Dynamic Table Mia Hoffmann - Email
 
 import { test, expect } from '@playwright/test'
 
